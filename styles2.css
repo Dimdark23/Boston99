@@ -1,0 +1,80 @@
+ h1 {
+    font-family: Times New Roman;
+    color: red;
+    text-align: center;
+    font-size: 125px;
+    font-weight: bold;
+    text-shadow: 4px 4px #000;
+    -webkit-text-stroke-color: #ffffff;
+    -webkit-text-stroke-width: 1.5px;
+  }
+  h2 {Times New Roman;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px #000;}
+    
+    .myDiv {
+  border: 2px outset red;
+  background-color: lightblue;    
+  
+  position: absolute;
+  top: 42%;
+  right: 60px;
+      
+}
+
+  
+ body {background-color: darkblue;}
+ footer {
+  text-align: center;
+  padding: 3px;
+  background-color: green;
+  color: white;}
+  
+.imgNE { 
+    position: center;
+    left: 0;
+    border-radius: 5px;
+    width: 600px;
+  }
+  
+.button-group {
+  position: fixed;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pre-button {
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+
+}
+.home-button {
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+
+}
+.next-button {
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+}
